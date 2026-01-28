@@ -1,0 +1,58 @@
+🖼️ Image Search Engine
+
+A clean and responsive Image Search Engine built using HTML, CSS, and JavaScript that fetches high-quality images from the Unsplash API. Users can search for any keyword, view results in a grid layout, and load more images using pagination.
+
+🚀 Features
+
+🔍 Search images by keyword
+
+🖼️ High-quality images from Unsplash
+
+📐 Responsive grid layout
+
+➕ “Show More” button for pagination
+
+⚡ Fast and lightweight (Vanilla JS)
+
+🎨 Modern UI with smooth styling
+
+🛠️ Tech Stack
+
+HTML5 – Structure
+
+CSS3 – Styling & layout
+
+JavaScript (ES6) – Logic & API handling
+
+Unsplash API – Image source
+
+📂 Project Structure
+image-search/
+│
+├── index.html
+├── style.css
+└── script.js
+
+🔑 Unsplash API Setup
+
+Create an account on Unsplash Developers
+
+Generate an Access Key
+
+Replace the key in script.js
+
+const accessKey = "YOUR_UNSPLASH_ACCESS_KEY";
+
+▶️ How to Run the Project
+
+Clone or download this repository
+
+Open the folder in VS Code
+
+Open index.html using Live Server or any browser
+
+Enter a keyword and search images 🎉
+
+📸 Preview
+
+Search images by keyword and load more results dynamically using the Show More button.
